@@ -1,0 +1,10 @@
+body{background-color: rgb(204,255,255); font-family: Time New Roman; color: navy;}
+h1{border: double white 3pt; background-color: navy; text-align: center;
+    color: white; font-size: 18pt; font-weight: 60%;}
+h2{color: red; text-decoration: underline; font-size: 16pt;}
+h3{color: green; font-size: 14pt; font-style: italic; margin-left:  5pt;}
+p{text-align: justify; font-weight: bold;margin-left:  10pt; }
+ul{font-weight: bold; list-style-type: square; margin-left:  15pt;}
+ol{font-weight: bold; list-style-type: lower-roman; text-align:  15pt;}
+
+

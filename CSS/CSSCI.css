@@ -1,0 +1,31 @@
+body{ background-color:#FEE9D8;}
+h1{border: double #DEB887 2pt; text-align: center; color: #DEB887; width:60%; margin-left:10%;}
+   .premierlettre{color: #A52A2A;font-family:italic; font-size:58px;}
+.premierlettre0{color: #A52A2A;font-family:italic; font-size:58px;}
+
+.PremierLettre1{color: #A52A2A;font-family:italic; font-size:58px;}
+fieldset{ border:solid #A52A2A 2pt;margin-top: 5pt;width:80%; margin-bottom:20pt;margin-right: auto;margin-top: 5pt;}
+img{width:20%; position: absolute;right: 10%;}
+table {border: inset #A52A2A; background-color: #DEB887;position: absolute; bottom: 15%;}
+.gauche{position: absolute;;bottom: 30;top: 70;}
+
+
+
+
+/*	fond de page : #FEE9D8 */
+/*titre : bordure double #DEB887 2pt
+        texte centré de couleur #DEB887
+     	largeur 60%
+        marge extérieure gauche 10%
+        1ère lettre deux fois et demi plus grande, italique de couleur #A52A2A*/
+
+
+/*paragraphe 1ère lettre en gras deux fois et demi plus grande, italique de couleur #A52A2A
+
+
+encadré : largeur 80%
+          bordure de couleur #A52A2A 2pt
+          marge extérieure haute 5pt, basse 20pt
+
+image : largeur 80%
+*/

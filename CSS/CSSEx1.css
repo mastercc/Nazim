@@ -1,0 +1,8 @@
+body{font-size: 25px;} /*c'est pr la police du text*/
+div{background-color: silver ;border: dashed 5px;}/*l'encadrement div ou l'ecriture est en gris et la bordure en 5px en format solid*/
+.titrerose{color: fuchsia;text-align: center;}/*titre rose en fuchsia et le mettre au centre*/
+.premier{color:black;}/*en couleur black*/
+.troisieme{background-color:black; color:white;}/*en fond noir et ecrit en blanc*/
+#rose:hover{color: fuchsia;text-decoration: underline;}/*en couleur rose et text souligne*/
+#blanc:hover{color: white;text-decoration: underline;}
+span{color: white;background-color: black;}/*c'est pr une selection de tache*/
